@@ -43,11 +43,11 @@ Real-time API integrations & caching for offline support
 
 PWA-ready and highly accessible
 
-#⚡ Quick Start
+# ⚡ Quick Start
 Clone the repository:
 
 bash
-git clone https://github.com/your-org/ai-crop-advisor.git
+git clone https://github.com/Shantanu-Sharma-11/AI_Crop_Advisor.git
 cd ai-crop-advisor
 Install dependencies:
 
@@ -69,12 +69,12 @@ Access the app:
 Open http://localhost:3000 in your browser.
 
 # 👥 Team Members
-Name	Role
-Shantanu Sharma	UI/UX Designer
-Avnish Bhardwaj	Frontend Developer
-Md Shadil	Backend Developer
-Abhinav Kumar	Backend Developer
-Shalini	Frontend Developer
+Name Role
+Shantanu Sharma	(UI/UX Designer),
+Avnish Bhardwaj	(Frontend Developer)
+Md Shadil	(Backend Developer)
+Abhinav Kumar	(Backend Developer)
+Shalini	(Frontend Developer)
 
 # 📚 Documentation
 Detailed User Manual
